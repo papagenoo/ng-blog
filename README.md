@@ -1,3 +1,1 @@
-Some text
-qwe
-new change
+NG exapmle
