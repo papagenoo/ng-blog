@@ -1,1 +1,1 @@
-NG example
+NG example.
