@@ -4,7 +4,7 @@
 
 angular.module('myApp.controllers', []).
   controller('MyCtrl1', [function() {
-    alert(123);
+    alert(1234);
   }])
   .controller('MyCtrl2', [function() {
 
